@@ -3,8 +3,9 @@ package com.cibertec.util;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
-import com.cibertec.entidad.Cliente;
-import com.cibertec.entidad.Producto;
+
+import com.cibertec.clases.Cliente;
+import com.cibertec.clases.Producto;
 
 public class LeerArchivos {
 

@@ -1,2 +1,4 @@
-2001;Maracuya;2.0;90;1;100;Bebidas;Grande
-2002;Moni;10.0;8;1;40;Postres;Grande
+2001;Maracuya;2.0;50;1;100;Bebidas;Grande
+2002;Moni;10.0;2;1;40;Postres;Grande
+2003;te ;14.0;100;20;160;Bebidas;Pequeño
+2004;asdfasf;13.0;100;23;2;Bebidas;Pequeño
