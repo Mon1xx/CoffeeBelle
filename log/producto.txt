@@ -1,0 +1,2 @@
+2001;Maracuya;2.0;90;1;100;Bebidas;Grande
+2002;Moni;10.0;8;1;40;Postres;Grande
